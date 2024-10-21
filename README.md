@@ -50,7 +50,7 @@ Al ingresar al sitio web, podrás interactuar con los posts existentes y utiliza
 
 1. Haz clic en el botón "Crear" ubicado en la esquina superior derecha.
    
-   ![Imagen del botón Crear](/inicio.png)
+   [![Captura-de-pantalla-2024-10-21-105831.png](https://i.postimg.cc/br14QbXp/Captura-de-pantalla-2024-10-21-105831.png)](https://postimg.cc/jnd8TDdF)
 
 2. Aparecerá un formulario en el cual debes completar todos los campos obligatorios.
 
