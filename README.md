@@ -50,32 +50,32 @@ Al ingresar al sitio web, podrás interactuar con los posts existentes y utiliza
 
 1. Haz clic en el botón "Crear" ubicado en la esquina superior derecha.
    
-   [![Captura-de-pantalla-2024-10-21-105831.png](https://i.postimg.cc/br14QbXp/Captura-de-pantalla-2024-10-21-105831.png)](https://postimg.cc/jnd8TDdF)
+   [![Captura-de-pantalla-2024-10-21-105607.png](https://i.postimg.cc/Kvk1y8PF/Captura-de-pantalla-2024-10-21-105607.png)](https://postimg.cc/3dh8X7fb)
 
 2. Aparecerá un formulario en el cual debes completar todos los campos obligatorios.
 
-   ![Imagen del formulario](ruta/a/imagen)
+   [![Captura-de-pantalla-2024-10-21-105654.png](https://i.postimg.cc/RC80GxjY/Captura-de-pantalla-2024-10-21-105654.png)](https://postimg.cc/V5q1Lps9)
 
 3. Una vez completado, haz clic en el botón "Agregar" en la parte inferior del formulario para añadir el nuevo post.
 
-   ![Imagen del botón Agregar](ruta/a/imagen)
+    [![Captura-de-pantalla-2024-10-21-105654.png](https://i.postimg.cc/RC80GxjY/Captura-de-pantalla-2024-10-21-105654.png)](https://postimg.cc/V5q1Lps9)
 
 ### Editar y eliminar posts
 
-Cada post tiene botones para **editar** y **eliminar** a la izquierda de su contenido.
+4. Cada post tiene botones para **editar** y **eliminar** a la izquierda de su contenido.
 
 - **Editar**: Haz clic en el botón azul con el ícono de un lápiz para editar un post. Aparecerá un formulario con los datos actuales, donde podrás realizar cambios. Tras editar, haz clic en el botón "Editar" en la parte inferior para guardar las modificaciones.
 
   **IMPORTANTE**: Solo puedes editar los posts que hayas creado, debido a una limitación del servidor que impide la edición de posts ajenos.
 
-   ![Imagen del botón Editar](ruta/a/imagen)
+   [![Captura-de-pantalla-2024-10-21-105754.png](https://i.postimg.cc/x1PJ6FGb/Captura-de-pantalla-2024-10-21-105754.png)](https://postimg.cc/3kdxR1cK)
 
 - **Eliminar**: Haz clic en el botón rojo con el ícono de una papelera para eliminar un post.
 
-   ![Imagen del botón Eliminar](ruta/a/imagen)
+   [![Captura-de-pantalla-2024-10-21-105607.png](https://i.postimg.cc/Kvk1y8PF/Captura-de-pantalla-2024-10-21-105607.png)](https://postimg.cc/3dh8X7fb)
 
 ### Paginación
 
-En la parte inferior de la tabla, encontrarás controles de paginación y podrás seleccionar cuántas filas de posts quieres visualizar por página.
+5. En la parte inferior de la tabla, encontrarás controles de paginación y podrás seleccionar cuántas filas de posts quieres visualizar por página.
 
-   ![Imagen de la paginación](ruta/a/imagen)
+   [![Captura-de-pantalla-2024-10-21-105831.png](https://i.postimg.cc/br14QbXp/Captura-de-pantalla-2024-10-21-105831.png)](https://postimg.cc/jnd8TDdF)
